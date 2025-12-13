@@ -6,6 +6,11 @@ TagManager:
   tags:
   - Targets
   - StartButton
+  - DifficultyEasy
+  - DifficultyMedium
+  - DifficultyHard
+  - MovingFalse
+  - MovingTrue
   layers:
   - Default
   - TransparentFX
