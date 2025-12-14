@@ -26,7 +26,7 @@ I primarily struggled with some logical errors and animations. The logic was due
 - Round complete and target spawned sound effects from https://sfbgames.itch.io/chiptone
 
 ## Special Focus
-I wanted to focus on making a balanced game, with appropriate models, textures, sound effects, and functionality. Having taken G320 already, I wanted to challenge myself a bit more on the programming side of the assignment and keep the art and sound to an effective amount without taking too much emphasis away from the game's core purpose of functionality. If I had more time, I would've created background music in Bandlab. 
+The primary focus was mechanics. I wanted to focus on making a balanced game, with appropriate models, textures, sound effects, and functionality. Having taken G320 already, I wanted to challenge myself a bit more on the programming side of the assignment and keep the art and sound to an effective amount without taking too much emphasis away from the game's core purpose of functionality.
 
 ## References
 None. I would occasionally use google for strict unity definitions and functionalities, but I wanted to create an aim trainer in my own image and challenge myself on the programming side by not following any blueprint.
